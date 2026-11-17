@@ -1,0 +1,34 @@
+{
+  "title": "YM Analytics Intelligence",
+  "upload_type": "software",
+  "description": "Dashboard de SEO y analítica para WordPress y versión web: cruza Google Analytics 4, Search Console, Screaming Frog SEO Spider y el error_log del servidor para dar un diagnóstico técnico cruzado y un plan de acción priorizado. Todo el procesamiento ocurre en el navegador, sin servidor intermedio ni almacenamiento de datos.",
+  "creators": [
+    {
+      "name": "Martínez, Yel",
+      "orcid": "0009-0003-0219-7265"
+    }
+  ],
+  "license": "gpl-2.0-or-later",
+  "keywords": [
+    "SEO técnico",
+    "analítica web",
+    "GA4",
+    "Search Console",
+    "WordPress",
+    "privacidad"
+  ],
+  "language": "spa",
+  "related_identifiers": [
+    {
+      "identifier": "https://yel-martinez-portfolio.com/recursos/ym-analytics-intelligence/",
+      "relation": "isDocumentedBy",
+      "resource_type": "publication-other",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/yelmartinezseo/ym-analytics-intelligence",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
