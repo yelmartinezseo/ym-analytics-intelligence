@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Si usas este software, cítalo con estos metadatos. El DOI apunta siempre a la versión más reciente."
+type: software
+title: "YM Analytics Intelligence"
+abstract: "Plugin WordPress open source que une GA4, Search Console, Screaming Frog y logs en un diagnóstico SEO. IA opcional con tu clave (no en la versión web)."
+authors:
+  - family-names: "Martínez"
+    given-names: "Yel"
+    alias: "yelmartinezseo"
+    affiliation: "Greentech"
+    website: "https://yel-martinez-portfolio.com"
+    orcid: "https://orcid.org/0009-0003-0219-7265"
+doi: "10.5281/zenodo.22770465"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22770465"
+    description: "DOI de concepto en Zenodo (todas las versiones)"
+license: GPL-2.0-or-later
+repository-code: "https://github.com/yelmartinezseo/ym-analytics-intelligence"
+url: "https://yel-martinez-portfolio.com/recursos/ym-analytics-intelligence/"
+keywords:
+  - "SEO técnico"
+  - "analítica web"
+  - "GA4"
+  - "Search Console"
+  - "privacidad"
+  - "open source"
